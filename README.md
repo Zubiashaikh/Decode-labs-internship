@@ -1,4 +1,4 @@
-# Decode-labs-internship
+# Decode-labs-internship-project 1 
 🌐 Responsive Frontend Interface
 
 
