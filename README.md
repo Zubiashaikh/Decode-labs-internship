@@ -41,12 +41,7 @@ This project focuses on making it feel right — smooth layout, clean spacing, a
 👉 https:http://192.168.1.41:3000/
 
 
-⚙️ Run Locally
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-Open index.html in your browser.
 
 
 📂 Project Structure
